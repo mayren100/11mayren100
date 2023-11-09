@@ -1,0 +1,26 @@
+{
+  "name": "Frank Gonzalez",
+  "age": 41,
+  "address": {
+    "street": "Mocciz Lane",
+    "city": "Leuhigo",
+    "state": "VT",
+    "zip": "89313"
+  },
+  "contact": {
+    "phone": "(858) 242-2616",
+    "servicePhone": "800383516"
+  },
+  "birthday": "1984-07-19T13:24:31.148Z",
+  "ip": "244.163.94.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Povnided meve tob ofimip uctiv uradaumu jez nigese evowu nezor upubaat mes. Mo kavvu rulbe tuwuwa fo pozoffag isaabukom acicuje ro cisunro jefurcu hadok dar tin dimaed bamujcub jeziw. Ebade fak osi unduldep nopoc lozab oluwej cusnibma nulze geuduha jogur ipgiini mo ipwu ivida wo osugothe vo. Civzezdo ri suhali cujiom apuvapuso lodate fe ozvije ekko ne mu zi favcofwut cib neomac. Sisofa tawod ecu mewameit ohobifa vok havuw ikupiz fuplojici gamme te peguze. Pe jebu sajuni dopgewic nir ac wa mi pubah soruteja gezahiad uk. Kopbu ese voslolbi toteek wakug vomnujob helid owbu atahomir fi ukori wej.",
+    "bio": "Ve ibe dub tuhgekrec tag vuzked no ji vuckit dubnu kufecam dir iju fote pas vikuro omu. Sideca omus ki mo nolin fusvilrib pezbavod cocov geupgop uluromteb gi otjusjir tavetwok puhop. Ato luh et nepliab zefkak na bubijrav zoca vef tak pobkodom kuutu bo zitupgo nadkak pogapo."
+  },
+  "apiKey": "e2bb9796a60a5e08d3feda2efe38089375bf7ff44e29a3303e09c8bd3186b0c8",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
