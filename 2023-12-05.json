@@ -1,0 +1,26 @@
+{
+  "name": "Chad Wood",
+  "age": 38,
+  "address": {
+    "street": "Rabdur Center",
+    "city": "Gahkunul",
+    "state": "WI",
+    "zip": "04688"
+  },
+  "contact": {
+    "phone": "(227) 730-2757",
+    "servicePhone": "800981791"
+  },
+  "birthday": "1973-05-15T23:02:03.590Z",
+  "ip": "184.172.77.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Gocoze vofe lavdagu hoj musa mojgis hiwe wi goti rihu siszag echuv rogi. Wipuhbag jahogju bofukoz haklaf zugki taiwzu sovu zisja ev pupnu kebenil uner woza. Kimaid lu gajebam erlolwiv bompe vasvof ek lavgedfu zupcazo epi ojahed feitiof mujan katvujevu osburta vi. Ungapal bi nizuvne suriper casog erna sebmo huriati ono fup latav joniribi oba rugowar gomivur wijov.",
+    "bio": "Esni jaz consomu rohekhu pa muhehu hev jodpebu tohepci ahemuno ho uvu mutlusam epwawen fe uta ozoim. Kof rur foveneb goca lanuzis ac rin kin ag juhi ec dub. Rirez nezo op ludij ajehu uba guh pekro we agitafa fiot mekzi iwodup bu jigho ges olpi. Siahe hit zubbi uji mo jo jakpo cu lo let celde nezupodu coumuci alehe dutmovge coun makun lujaeca."
+  },
+  "apiKey": "d59c93a94cd8f3c0ed98513fe11633186a20ad586aac1d92236ed922c3da309c",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
