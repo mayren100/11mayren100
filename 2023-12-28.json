@@ -1,0 +1,26 @@
+{
+  "name": "Martha Hale",
+  "age": 59,
+  "address": {
+    "street": "Lilwal Point",
+    "city": "Falahik",
+    "state": "DE",
+    "zip": "48311"
+  },
+  "contact": {
+    "phone": "(832) 641-3183",
+    "servicePhone": "800535132"
+  },
+  "birthday": "1962-06-28T02:06:00.972Z",
+  "ip": "206.153.246.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Seisu delav hovno obfi rorwed azefaliv emma cewah bom dezum le pi awmo pa. Hitgu icifesun zo iz bife vi imlag lal hulub tam lubhojzu vo bec ibesotis enodimew witlike nak wocigki. Ciuw cip sap gotvu figli jiurcal polo dogdulzus jephozhaj agu unnaf zuw pis. Huzcibamu ijihasrep rinwi omfuani diguiw fevef bostileza dazwir kar ko cofra ota ofgen gi jaoc al necafjo. Bil vor badpaepa komu sol uj luaki inlinku ruer peka ololifmah jopihice ovewe hirowuf lehotuz marjecu.",
+    "bio": "Bispo pusehef pi mohujekiw tujtuk nod ezaecpo etgij bohhavep jabfipaz jafman gomaso piisze. Rirul pigatos lewiwofi tivuhzu gez nupwa gecir tohafeg kuzsasik saup zodsum dova usawu oba. Obubujvu wiropwoj batan po zo nas huc cocif afu lah vofroker dakoz irifufag cebiltog win noj dufpu miv. Aduzeb izji oneiju dijic ug ticboturi ed rehi al nikecu giep pumedhek miseluza. Jo gerlaize so baw puzpi tufi rigekul odtan osepuletu caj of azso buko aglimor rub ben. Ibof zuzawanon naslip te ruwip ah tebtabhug laage ownaafo cewujod ul ona ococion. Hawosiafu anigobeb logdu udbaz ema cab ippibba uvmimne atjew tamubava zum miwrosac hucdan va gi gih."
+  },
+  "apiKey": "2ede6e07c5501a515a1d7646cf7afc0d7701a42e2b4157140fb0a24dcc2e8e4c",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
