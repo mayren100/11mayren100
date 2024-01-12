@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Burns",
+  "age": 45,
+  "address": {
+    "street": "Devid Square",
+    "city": "Omkoowa",
+    "state": "MT",
+    "zip": "06305"
+  },
+  "contact": {
+    "phone": "(579) 205-8883",
+    "servicePhone": "800975773"
+  },
+  "birthday": "1973-03-31T18:50:51.748Z",
+  "ip": "198.155.7.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Demu fupewdu seotre geifwoh lagizib ditozpej pikpo du hu uv vep wipved bip ro. Gar osa te nentuszan zahhamna bo nom gofam dodlerle mippuh tutfes roshed mup. Deec ba cenipa vu tumolabur aj luvun gulul kojnel loge jevdat columgo ire ane idatav. Vaesa sotol kocbuvto amka woupo jecedub ekuiju su macowu seb fotcup ginah. Ohe tu nufotpa ar pagossi diiptam otidajgi fuwowad nem orajaowe boze caogohi sumal uhafe vengeip uvoneiv. Cugvor ka ca jomil huwinjib cegowefa dodita raerubip ba jig uj pev. Gogkuh gedol reh no anekazul fa somejur olodcul lidpevwog gulhava leg ap.",
+    "bio": "Megbu de jofem vepi gu apeazeiz ofedaba dudmesci hine kavanaan bumulzo soc fevma rir. Huorce wokow vujuk takti ketumkuj ca sam ziwjom voofgu odef poetpuk ti firapsep hianra ra. Efad amfem jemgugjib habow mifgawum kicaludu ji penon tuh badno beignow apo pel rizeter geksujke fisomdu kejibol bah."
+  },
+  "apiKey": "d7b665ef691cb8ecd99e1a672d0280e0302b64e15b3ded2ebaf7789518823d5a",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
