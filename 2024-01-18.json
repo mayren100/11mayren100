@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Bowers",
+  "age": 26,
+  "address": {
+    "street": "Henic Heights",
+    "city": "Mozuliru",
+    "state": "MO",
+    "zip": "89903"
+  },
+  "contact": {
+    "phone": "(250) 814-7658",
+    "servicePhone": "800413383"
+  },
+  "birthday": "1999-03-25T21:45:54.829Z",
+  "ip": "53.253.251.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Hohobiku ho wabjiule mic elatalli rarow zakpol puppujzo joshufje owzoj bu upa zu huah ku wo foz. Tupuz zin nelruhlit lolubil pej gekrojga fa ze tu lidu puimo areded his uzerid nal zisbit hi. Zetana vuzes oka mif totaasu aku movedi juvof bigoc fuhilaz etipa loh vafod mabfu kaan obvul fitaw.",
+    "bio": "Pucemlu in ezsedaw iwidu rodpi piuluku ece jediwe kence uta moci doklussoj. Rotalve dotli on igzic bussahful dugaluko jej zouhe ef got sudufa duhe ceplaw. Ula kekobwo puhuohe didgomi geggog ijedodeb jucezhoc fijmoret jik fehnu fanos cauflaz ewoas tuce bootape."
+  },
+  "apiKey": "f2f1b02d0be2ffaa47b30eac23da33f279602411d54ea1831ead76332cda330a",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
