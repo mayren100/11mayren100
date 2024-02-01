@@ -1,0 +1,26 @@
+{
+  "name": "Keith Hansen",
+  "age": 27,
+  "address": {
+    "street": "Zitu Street",
+    "city": "Tutjimid",
+    "state": "NV",
+    "zip": "15946"
+  },
+  "contact": {
+    "phone": "(450) 868-9776",
+    "servicePhone": "800686133"
+  },
+  "birthday": "1974-12-22T19:25:26.216Z",
+  "ip": "171.106.25.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Tafwi luhvurif wer ogas hev zadrees eremes wi sipopi jocekam saogri ci tugomwac bedmof iru. Ba vefva luh nesizudi nuf gi fa tatut jo ku lajtapbe toamzo jule damo ogepot vatcuvcu. Vopivop nu ebjic fehtep imi jesili jeaghol pib pa noku virwabo etaku sanecko nu vimcav ecegihweg un. Ijuhefos separu ad ojni nunhues puvofe ebuve vul pu la eruju tacdir kinlug opiajozet etigina tucu zol. Ku terais lot doirigas venakkuh heoshik vupciv ewilisa liza arafu doji vi ka no vurnag oncac. Gipis atimelol bab totra caka pomu odes iw pe vuahbe fogunfit keno.",
+    "bio": "Gacep begubi ju vuta wovjon ah peskod ita juvebce het tovvufki jihioza. Etumepilo mohvafce toh dec ke ranwudum piwudi meka namsipfif ot sin how butad eja bef. Lip hebamice cawij izo ranhe kam sedkoz he soop vadideji tipzake fi feczam. Tujusep ke avdak ifi id oz pu ebsueda bulcogup puwociz pinedu up seterma guboocu."
+  },
+  "apiKey": "ef6c816ab17863a31a6eb136d85d8c21ee3dd50f74ba9c13a988177c87e8e82e",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
