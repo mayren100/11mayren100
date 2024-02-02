@@ -1,0 +1,26 @@
+{
+  "name": "Luke Stevenson",
+  "age": 58,
+  "address": {
+    "street": "Sajne Square",
+    "city": "Pizucnad",
+    "state": "GA",
+    "zip": "27665"
+  },
+  "contact": {
+    "phone": "(432) 662-4829",
+    "servicePhone": "800535454"
+  },
+  "birthday": "1972-01-27T13:15:06.358Z",
+  "ip": "92.153.131.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Duw duczu jozdet cuhbuk eswur la vu wufogko jikbos nogpedim inebava dusfida duh biniz. Ofivu nozjesvag riz bi ic ipecu ug jeij nejgereh bonuhpat puf rucja nehivo mikbihba va pojuwen tozodev biop. Muew joz pacvow gavku uvuduj uba nam efuvi kaika wew pesah wupcew hojkorevu fa fo ko evegauci lu. Gakvawi ke miblojab lommi igi lialineg pigtal div notir cifton ahagavac val ja avzauto leratul. He ziko la kodogvoj febeselu miru cowefa pe gor vene fowkaud de pizhe vibgi cap. Kosidon not ov ra ca irne etdis warmero jigigu mesik upiumjub ci re lu job.",
+    "bio": "Iseulisot re fos podifezak gev li irout por volpovre fevo bi do vefuz. Nigetdam rojdola cu pefe buz usobasror ritmu tirre zom wudtunuc awaho zusro la savug. Gocoz sirpep jobuluj re heajuwe ho kim bozvuv mik novcokse vohizita kun tole. Hajjev telseud ko uc ruzideka wa uhumuhfez buwe wawiju rit ut ivu."
+  },
+  "apiKey": "c56d5ed6d450a7460808567bf97cc8e28ef699861a894b12c96bee1e9d1ec31b",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
