@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Walton",
+  "age": 61,
+  "address": {
+    "street": "Lulra Loop",
+    "city": "Viroruz",
+    "state": "FL",
+    "zip": "05987"
+  },
+  "contact": {
+    "phone": "(789) 443-4524",
+    "servicePhone": "800378818"
+  },
+  "birthday": "1981-10-12T02:01:17.465Z",
+  "ip": "119.4.115.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Arjo ke nukjif dicgo ofehef uctuj obopa elo wokkupopa nolkujzi lo mut fubi la kuj repap. Woiwpi zeojo rideri fopug mic coane tomaira fakanhib dulizuv lihho enewigub ewilow bal. Tajahef jezsej vehre ura rajuzum ezi gabeupu suvud zanil cu pud husgedu. Nenlunheh adatawu to usava nuwnushop uhiteuz ku uc gokbek beguep be bi olwa guzkata davzis. Ob da etu nel dicuwi oziwisu mivbem vodpoh ladnikze hohga kuan af gojpu og ugena fuid.",
+    "bio": "Ase se uhe to hodauh aj zutju ric giguv ejvam atoavpo rudozuwi ce fivahuj fukdudu tan. Nutbefsi rita wep jo zulusimev guocfuh bisima adejahba oz replup selun ha ukpumu mulda pehoku lowo ito uliwe. Vareruk hoc vape feorfa geoh vodiv jurane jitmaihu wah lithiw es pagjut."
+  },
+  "apiKey": "5ff583a6d619a6570daea7a7be344d3c2ce6d619f084ab325d024fa73a000210",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
