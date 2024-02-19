@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Carter",
+  "age": 23,
+  "address": {
+    "street": "Alvut Pike",
+    "city": "Kahivra",
+    "state": "OR",
+    "zip": "24469"
+  },
+  "contact": {
+    "phone": "(424) 754-5649",
+    "servicePhone": "800715243"
+  },
+  "birthday": "1968-05-20T14:13:45.906Z",
+  "ip": "173.73.64.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiipa vosafib lejitof af hadderwu piwep ufrih mepnonas nutbijato poshas ufulet javkof ra ti cinonsas. Urupeg zozke bem woz giggowew lunumod nu hijebug uwusegi fudit ado ofi guhut zawatuz hinvo daugu hoicvo. Simwopkim oszajgi huj akor var zu jelif arohogem nuzane ogo tizgubej anzon. Irlieb visjakeh cupo katacaso cihur pob huwfa fu moj ari laevi pug mislak.",
+    "bio": "Sus no kagar nojuwut deabtel vujba kep zevudji hoev ok sug vogwef edegaci ri zawipi erooce forbi. Umetari soawiele lusofe uvivi hek wek cusvo uwehukcem luko jiarogec ma vifahede. Jelgacuja er ro miwuumi wuoze tozhaha ija ec uho wuk hew wur caawe jijretvo golemveb re dov."
+  },
+  "apiKey": "917f949a69011b5951ae6bc69ab8a886f77fce2d2702c854c22730ed0f858ed5",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
