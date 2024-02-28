@@ -1,0 +1,26 @@
+{
+  "name": "Charles Moody",
+  "age": 59,
+  "address": {
+    "street": "Idwiz Park",
+    "city": "Dehizsa",
+    "state": "MO",
+    "zip": "63585"
+  },
+  "contact": {
+    "phone": "(838) 387-9967",
+    "servicePhone": "800727984"
+  },
+  "birthday": "2003-12-01T04:25:00.739Z",
+  "ip": "156.213.159.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Balkopi jikan imovoleb sigovo safje uhe upezovnap gahzeini da ga ibe kulocur azzov. Abitu dapmu kejugir agfuiv ot raecado ew markommi gunaji egkih ode koitba ho ca. Linpew bo jehcem musfe va zev ruc defjod afazeb ze ni bizo tu. Ukitub mucenevig dij os lohon pulaud zu fiel zecnive evizu uho rus so owmak ejriz pilo feciwugo.",
+    "bio": "Rolsoic he bamiw efhaoz pih emucag ugisin zokebuno pe jursob miofaguj ze fuvuhe uke sekipev or. Boono hikab soz zavfup keh ol cem hetwuume hoboz halu lemargov gi has cuz. Pom va irmonja nikmol vakzuep zamo apifi bi waventa wumdeec uma fehvam zechi cogereuzo tabe waric cek wanbuh. Dol zat agakeam efrez he uhecadbo biducpo timgegno noh guureta bacuc polepva opipa."
+  },
+  "apiKey": "90b088f7888a06d1e9cc440ab5d61d06fe8cbe622318e554268d557053986b4a",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
