@@ -1,0 +1,26 @@
+{
+  "name": "Roger Marsh",
+  "age": 37,
+  "address": {
+    "street": "Nijor River",
+    "city": "Zerebe",
+    "state": "MI",
+    "zip": "08391"
+  },
+  "contact": {
+    "phone": "(900) 755-9243",
+    "servicePhone": "800282381"
+  },
+  "birthday": "1992-12-06T11:12:23.064Z",
+  "ip": "216.104.79.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Ude on ala se be ana awu eszepu ameozifof uh ciz re av uf kocgoc si lelruwi. Sot sajore ke hev detpur ahuhengil evtein hof ihu aco sup nefeg papke. Heva nivi ruci kofdun sobcukkah mi legmuc migwekwa tuk ridrazav talidnu zapaihi we sid sudijva.",
+    "bio": "Bipriw iga epmawo dafatbet hiwap hihsedjor winin couzaac ahfigtu ladowow kawjelwo fuhukeve ase. Takoluini ko lauf jow mo co akicbif cigzoknes zisopeg borjeked mod zerwevu jeusi cejabecez cusnampo. Zemmu os ezu le tivwir ajozetor oduino cednog wobol nejuvpu lokcimeg hufwobzip jeguco juculase jefgop tabzoki walkonun. Wozlirka zo ehaki esa guvuame ha zame apujocta oniciwkol tom lisi gu epa lojukpec cubo nonembow naenoca."
+  },
+  "apiKey": "cc0225fc94ef7a076002eb4fac461ee63234bfe81719699c1d7a6896cff0ccfa",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
