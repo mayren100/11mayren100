@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Singleton",
+  "age": 40,
+  "address": {
+    "street": "Gobu Point",
+    "city": "Mipaav",
+    "state": "VA",
+    "zip": "70619"
+  },
+  "contact": {
+    "phone": "(982) 885-3468",
+    "servicePhone": "800538236"
+  },
+  "birthday": "1989-08-25T22:26:18.515Z",
+  "ip": "73.104.16.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Tirepak wis gagfih jum marej fimmeoka lur bawub siso luba kietmi azsuj ja. Rifa muuhlup patfa furvulhe remi gir jos ru sutgaz us culzevajo olfov higenib ic ebire zozasije. Jopibi fertuf gipovbi ode kon afzeik wedi imtevzot fifok sil eruga tod bad ukta vi cul.",
+    "bio": "Badbihaw ufeava fev gespe otkubud dicuiw ipavaca mi wetuk salocwat kentivi vojine dumehzut ka esirasa gafci. Bivep itagen bakom ezaicisit herup veazoiv wazdunug arehus gepfenag pe gej dejkup ca lecbuiv wezwarbot cakeg. Eva zeru dahcozuca jonpogri umaog ivda havil uccas wunfeir saw ziz it. Jimuh zinfa ji gerlo kotow rokcog nomka ubecvi zozhopge vopuemo ecirufip fewfur dumilzi ludohmaj liici lod tejju hokov. Epjem katku zidgon fuc huazja sid ak ve kileccil co zab bidus gilvu hikola."
+  },
+  "apiKey": "6b71b6badb6979bea17db63172e1ff344f0a88bfbe5b5629d6640090c46d952f",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
