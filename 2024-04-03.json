@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Garner",
+  "age": 45,
+  "address": {
+    "street": "Jujhip Center",
+    "city": "Mavunola",
+    "state": "IN",
+    "zip": "08511"
+  },
+  "contact": {
+    "phone": "(382) 724-2995",
+    "servicePhone": "800417225"
+  },
+  "birthday": "1972-10-03T04:37:17.480Z",
+  "ip": "247.101.36.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Wevvatka ava gi iku punasvap jegiiso pov vostawram okiavona lepoov babujwam jas arelkup wa herno. Jepusni zebcigwev bikirjeh ro demlokno kuujeelu cectifa gevecom amfuteb ceztoof lup mohi arig bezsagdoc zaduwmol ka. Suwu bufad gu sibafid suwlege poajve pacgeh gun ban kebboso fofcog pod ziico.",
+    "bio": "Gaidi zopuhrom gizmu gih bumaji zenuhda pulcuko ir abicuru han bo pen je vim azubun nipgad otrat. Lu lofkem pol kipihur pejwegiki etewigez fen ho go sukdinpun nelidum akeejo isiinawol. Moku zij wedjuone hor bew libsa jutamos lijbesol tesuz hettacnu butij de poferde hehzif roko hopi owaag."
+  },
+  "apiKey": "79611c883bcc5b1691dcbd187db73ad177cc33f37182076e5e887f5222e9fb87",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
