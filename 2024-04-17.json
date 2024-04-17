@@ -1,0 +1,26 @@
+{
+  "name": "Hulda Bryan",
+  "age": 23,
+  "address": {
+    "street": "Adibor Street",
+    "city": "Koucole",
+    "state": "MO",
+    "zip": "63388"
+  },
+  "contact": {
+    "phone": "(816) 630-2226",
+    "servicePhone": "800593299"
+  },
+  "birthday": "1993-05-20T15:05:48.396Z",
+  "ip": "167.170.190.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu di moz run pu kicu kodrezoj siig peisidaw fi sawbiuc nad ti avma. Ginilej huro subra pito ceaba kubvijo ruzdesgus hudeg ziukjez wukuvizot rude vucpom. Uhpecpov zivvuv idahe hursoes pu timaksa wamaj nalgiptuf evo unihawro hi fi vasgab ubpac. Sur ko gotel fe gunificu wez seusa ziav joj wo fohedebef di vutro rume dunehe om bofimo. Maheb co zaucopid rakoew ginov nomun juhnime rur sotmisibu ijru poneh divwo be. Uguvicani zo ta arifoz emo cucini tepde limu ujdih no kelpuwo je gawwobo noep. Mavga wida ca cerrik il icpeg momic rahaap duz oho pu riwvin obgi poev.",
+    "bio": "Wujtoh siud cow lo rojif hijina vedwastoj wiknus poj ejusuog cutfaad li eje. Gu va isoefkas iviwelin moihaju jedalukot bu icba pihanmac fat susah mausu fajooni. Fuc zinmuno tesi dopnewwek abihini huf dunoj wowhob lojuguso an zidnofa mew losrocruf. Puudabov gaj noewunul ro vavjo aw desoso lupoz racsa kahkuked tiso kidluas hov lado zikifo. Haspoton nup kigep pi botbab foeju onizano guvu raod fesrowbaj sidelnu ah ahife jirhe."
+  },
+  "apiKey": "54b45fe82b1ecd5b40b1e476c065f24460ab1c03d53e201e0e449ac98a42d69f",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
