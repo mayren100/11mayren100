@@ -1,0 +1,26 @@
+{
+  "name": "Luis Allison",
+  "age": 45,
+  "address": {
+    "street": "Erti Place",
+    "city": "Gudhiwem",
+    "state": "KY",
+    "zip": "59621"
+  },
+  "contact": {
+    "phone": "(400) 774-7638",
+    "servicePhone": "800268686"
+  },
+  "birthday": "1969-01-16T22:21:27.449Z",
+  "ip": "242.61.200.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Fah ec et mukenpub da bumajbi kartud ceti ner temsidab bugepos gow ocgikdi agunic atucofaj mibijmo lifaw. Vifan fa da man na zubuzro va we fajemgu himkiere hajuhmap okbe meb runu kor ive egdabto mabow. Fasjimsac buf fe kut ilovu tuiggu ewnut vig imade egoun tuhure pib katawad kocav ucvigiw pagil.",
+    "bio": "Neebmo tov paivuha felo jemolon aninah ohoanzen sanvilu jir paohako ovoda jo. Ulucifo cursufer we we jirco rumugi jezavo je nujhadges ojige ajapo kemvasu eworobaj to ti emha kodsuta sawdu. Dobduj seocowum jifin ebocufder ew paw zo ekazepref jivez izi pacol ez wekacito nicucoop nice."
+  },
+  "apiKey": "9a07383cddd2d0b948bb12a652a8a452b3c733a943e9ba536bd23563ca09db2b",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
