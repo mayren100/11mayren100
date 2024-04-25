@@ -1,0 +1,26 @@
+{
+  "name": "Larry Stevens",
+  "age": 52,
+  "address": {
+    "street": "Harez Street",
+    "city": "Avocirzu",
+    "state": "CT",
+    "zip": "36182"
+  },
+  "contact": {
+    "phone": "(264) 602-2539",
+    "servicePhone": "800492748"
+  },
+  "birthday": "1960-04-27T12:20:35.112Z",
+  "ip": "168.121.81.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuufeh bu sujo dij ku losi tatzav mecwu vamuf awe vob tom zicof baod dahpejuw hemecno emifwun rahde. Zih mima zif tuwof bi en hosfi pi hatfardit taus zov delsuznal givzok peeguzun lipbuf ficaczu japziim. Rolbufhil baw he al geenawe wormol fu ob newuppim pe zezuzoco tiwsev ucemocih gok ot sola cok mim. Itewet udumonjo guk kuw hij mo ciwur woseiha cevpocdac piguj beni bighog vinca. Hava jaodwi sa bupodutit mamrela mis ceteg ginjufa ninral gomopu ofvu nu lusevume poh. Ci cifib pit letbuf voho fep mo vizo jutolcu misi monme ra fuhebbad bomikboj dikjogpo mufhakde jodiki fuplura.",
+    "bio": "Uwojag koka vi dumaroj lacerec gakan wacgap dudiipu jinuvut unfo pajco cupezuz wakiru suzoli itirizaf sirica tago. At ono anekeeg jiwlu na upfi ujeik pepara cog puges ebacauz mapugihe kic ohwejwu zef. Natid po ilo pocuzuc wel tulgaja noeba veta ha weri pu na."
+  },
+  "apiKey": "3a5047ea95c98f67d6d77d92679229fbc599ea18cd7c22f0f800d4e9e987e4e8",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
