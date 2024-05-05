@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Holloway",
+  "age": 60,
+  "address": {
+    "street": "Zecoc Pike",
+    "city": "Zezhaba",
+    "state": "AR",
+    "zip": "96339"
+  },
+  "contact": {
+    "phone": "(310) 387-8136",
+    "servicePhone": "800731892"
+  },
+  "birthday": "1971-04-23T09:10:30.507Z",
+  "ip": "150.90.90.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Lerdolen niobnu na lid mew gafmigok jijku ja tejed gacla muda gawcuj gewu rem uwu so. Izususo nuuhka ihfesam kosvop bufo ken jon ga roza tuco bevuljal utwujup perej ti. Tob hipew zam osu bu kaco ejapuvo tubef bocuum sukjo ewu paco sopvaeti.",
+    "bio": "No fezwe kogma virad gam jertova vocli devbu vegnij zawu giik saeh regaoha uleev. Kul homzupi nolidco ivo mar dihducin geuju gulojti usefasuk zi aj ifuzu budogco pinejuwit dijosaf lim lujisi laz. Ampuhpi pawow voda abere aruve dobkol alepe jenas zuuf evo ewuzode vuzrug ekjor hukuzgo pomug cok. Law sewoja nicna lebula mi uguvo vuile vumokawiv nujregi gadcu abo elepav."
+  },
+  "apiKey": "34f9954a4239e8c718b3a9986e1d37b83db1798519aa377b95314655471cf764",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
