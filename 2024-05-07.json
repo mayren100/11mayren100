@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Barrett",
+  "age": 54,
+  "address": {
+    "street": "Gojan View",
+    "city": "Hutoji",
+    "state": "DE",
+    "zip": "13426"
+  },
+  "contact": {
+    "phone": "(302) 773-7890",
+    "servicePhone": "800167324"
+  },
+  "birthday": "1973-08-23T12:19:01.074Z",
+  "ip": "78.133.245.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Lubuzhih ubzas bitmutir bujfipok ir lesgiteku nus lued zab vubto zewomiba icuka. Re lelhi hu haotbok wol go peedijen jah wobeav sanmewo nino dahsuh sos uk jesenen lusdemec segreaz zapun. Gar ug egli vumowvi disez ocjasat isivuwe rigcov ga vumon sa tufud.",
+    "bio": "Mirpofev cudhef ehudat si zeze huje fealo kotet nis eza iho cuna hav morbehzu tap suk peg dup. Raorhor sinto sovu mobipe siwubu vokove juj omi ri egana if paajade vu hur badren cipuz li. Ilmo podpadi hazhuhu lenkaz tuidek bo bij ohdapa liukif ju uwsuze miit vapevow faowizus pow buc edwava. Wavibig didkep mek popimdob gowvih zoz uwaeme tilgi ke mu jilreza je hu kiabi padanno neajaug."
+  },
+  "apiKey": "2da2f84ca4eecc1a92a2e9aee1d50430b206f3317493f5d88ff0ca4b891d59e8",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
